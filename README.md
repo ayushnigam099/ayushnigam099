@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
-Enthusiastic fresher with a broad skillset encompassing C++ STL, JavaScript, Bootstrap, HTML5, CSS3, Node.js, Git, Visual Studio Code, Express.js, MySQL,MongoDB, Rest API development, and RESTful Webservices. Proficient in utilizing these technologies to create engaging and functional web applications.Possesses a strong foundation in backend and frontend development, coupled with a proactive approach to learning and staying updated with industry trends.Eager to contribute this comprehensive skillset and passion for web development to a dynamic team and make meaningful contributions in the field.
+Enthusiastic fresher with a broad skillset encompassing C++ STL, JavaScript, Bootstrap, HTML5, CSS3, Node.js, Git, Visual Studio Code, Express.js, MySQL,MongoDB and Rest API development. Proficient in utilizing these technologies to create engaging and functional web applications.Possesses a strong foundation in backend and frontend development, coupled with a proactive approach to learning and staying updated with industry trends.Eager to contribute this comprehensive skillset and passion for web development to a dynamic team and make meaningful contributions in the field.
 
 
 ## 🌐 Socials:
